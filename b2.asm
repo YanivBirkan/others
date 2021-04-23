@@ -4,6 +4,9 @@ STACK 100h
 P186 
 
 DATASEG
+
+
+
 num1 	db ?
 num2 	db ?
 smaller db ?
